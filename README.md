@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-###### *Thank you for landing here! I am Jean de Dieu Nyandwi, based in Kigali, Rwanda. I am doing a Data Science Internship at [VIEBEG Medical](https://www.viebeg.com/en/). *
+###### *Thank you for landing here! I am Jean de Dieu Nyandwi, based in Kigali, Rwanda. I am doing a Data Science Internship at [VIEBEG Medical](https://www.viebeg.com/en/)*
 
- *..........*
+
+ *.......................*
+ 
 
 <!--
 **Nyandwi/nyandwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +41,10 @@ Here are some ideas to get you started:
 - 🔖 Here is my [resume](https://github.com/Nyandwi/nyandwi/blob/main/Jean%20de%20Dieu%20Nyandwi%20CV.pdf). 
 
 
+
+ *.......................*
+ 
+ 
 
 ### Connect with me:
 
