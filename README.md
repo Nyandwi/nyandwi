@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Applied Deep Learning with TensorFlow and Keras
 
-- 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or entry level position in AI. 
+- 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or other relevant opportunities. 
 
 - 📚 Favorite ML book: [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?dchild=1&keywords=hands-on+Machine+Learning&qid=1601814138&sr=8-1)
 
