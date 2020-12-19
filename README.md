@@ -34,8 +34,6 @@ Here are some ideas to get you started:
 
 - 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or other relevant opportunities. 
 
-- 📚 Favorite ML book: [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?dchild=1&keywords=hands-on+Machine+Learning&qid=1601814138&sr=8-1)
-
 - 🎤 I recently hosted PIE & AI Kigali meetup. PIE & AI are series of [AI events](https://www.deeplearning.ai/events/) powered by [deeplearning.ai](https://www.deeplearning.ai). Watch our first event [here](https://www.youtube.com/watch?v=zVwl3MYomy4&feature=youtu.be)!
 
 - 🔖 Here is my [resume](https://github.com/Nyandwi/nyandwi/blob/main/Jean%20de%20Dieu%20Nyandwi%20CV.pdf). 
