@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### *Thank you for landing here! I am Jean de Dieu Nyandwi, based in Kigali, Rwanda. I am doing a Data Science Internship at [VIEBEG Medical](https://www.viebeg.com/en/)*
+###### *Thank you for landing here! I am Jean de Dieu Nyandwi, based in Kigali, Rwanda. I am a Machine Learning Engineer, having interets in Applied ML and Computer Vision. I am also a TensorFlow Certified Developer!*
 
 
  *.......................*
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-:link: [LinkedIn](https://www.linkedin.com/in/nyandwi/) :link: [Twitter](https://twitter.com/JohnJW) :link: [Medium](http://medium.com/@johnjw…)
+:link:[Personal Website](https://jeande.tech)  :link: [LinkedIn](https://www.linkedin.com/in/nyandwi/)  :link: [Twitter](https://twitter.com/JohnJW)  :link: [Medium](https://jeande.medium.com)
 
 
 <!--
