@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 - 🎤 I recently hosted PIE & AI Kigali meetup. PIE & AI are series of [AI events](https://www.deeplearning.ai/events/) powered by [deeplearning.ai](https://www.deeplearning.ai). Watch our first event [here](https://www.youtube.com/watch?v=zVwl3MYomy4&feature=youtu.be)!
 
-- 🔖 Here is my [resume](https://github.com/Nyandwi/nyandwi/blob/main/Jean%20de%20Dieu%20Nyandwi%20CV.pdf). 
+- 🔖 Here is my [resume](https://github.com/Nyandwi/nyandwi/blob/main/Jean%20de%20Dieu%20Nyandwi%20Resume.pdf).
 
 
 
