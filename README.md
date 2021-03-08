@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 🔭 Favorite ML area: Computer Vision
 
-- 🌱 I’m currently learning Applied Deep Learning with TensorFlow and Keras
+- 🌱 I’m currently doing Deep Learning with TensorFlow and Keras
 
 - 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or other relevant opportunities. 
 
