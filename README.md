@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Stay in Touch:
 
-:link:[Personal Website](https://jeande.tech)  :link: [LinkedIn](https://www.linkedin.com/in/nyandwi/)  :link: [Twitter](https://twitter.com/Jeande_d)  :link: [Medium](https://jeande.medium.com)
+:black_small_square: [Personal Website](https://jeande.tech)  :black_small_square: [LinkedIn](https://www.linkedin.com/in/nyandwi/)  :black_small_square: [Twitter](https://twitter.com/Jeande_d)  :black_small_square: [Medium](https://jeande.medium.com)
 
 
 <!--
