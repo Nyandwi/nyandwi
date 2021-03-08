@@ -44,7 +44,7 @@ Here are some ideas to get you started:
  
  
 
-### Connect with me:
+### Stay in Touch:
 
 :link:[Personal Website](https://jeande.tech)  :link: [LinkedIn](https://www.linkedin.com/in/nyandwi/)  :link: [Twitter](https://twitter.com/Jeande_d)  :link: [Medium](https://jeande.medium.com)
 
