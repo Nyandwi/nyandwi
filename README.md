@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###### *Thank you for landing here! I am Jean de Dieu Nyandwi, based in Kigali, Rwanda. I am a Machine Learning Engineer, having interets in Applied ML and Computer Vision. I am also a TensorFlow Certified Developer!*
+###### *Thank you for landing here! I am Jean de Dieu Nyandwi. I am a Machine Learning Engineer, having interets in Applied ML and Deep Computer Vision. I am also a TensorFlow Certified Developer!*
 
 
  *.......................*
