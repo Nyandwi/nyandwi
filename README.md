@@ -28,16 +28,13 @@ Here are some ideas to get you started:
 - 🔭 I’m currently doing Data Science Internship at [VIEBEG Medical]
 -->
 
-- 🔭 Favorite ML area: Computer Vision
+- 🔭 Key Skills: Machine Learning | Deep Learning | Computer Vision
 
 - 🌱 I’m currently doing Deep Learning with TensorFlow and Keras
 
 - 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or other relevant opportunities. 
 
 - 🎤 I recently hosted PIE & AI Kigali meetup. PIE & AI are series of [AI events](https://www.deeplearning.ai/events/) powered by [DeepLearning.AI](https://www.deeplearning.ai). Check the events page [here](https://jeande.tech/events)!
-
-<!--
-- 🔖 Here is my [resume](https://github.com/Nyandwi/nyandwi/blob/main/Jean%20de%20Dieu%20Nyandwi%20Resume.pdf).-->
 
 
 
