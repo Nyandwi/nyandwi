@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🌟 I'm actively looking for opportunities in Data Science | Machine Learning | Deep Learning | Computer Vision. Ping me for colloborative project, internships or other relevant opportunities. 
 
-- 🎤 I recently hosted PIE & AI Kigali meetup. PIE & AI are series of [AI events](https://www.deeplearning.ai/events/) powered by [DeepLearning.AI](https://www.deeplearning.ai). Check the events page [here](https://jeande.tech/events)!
+- 🎤 I host PIE & AI Kigali (virtual) meetups. PIE & AI is series of [AI events](https://www.deeplearning.ai/events/) powered by [DeepLearning.AI](https://www.deeplearning.ai). Check our past events [here](https://jeande.tech/events)!
 
 
 
