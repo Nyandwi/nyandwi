@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I am Jean de Dieu Nyandwi.
 
-###### *Thank you for landing here! I am Jean de Dieu Nyandwi. I am a Machine Learning Engineer, having interets in Applied ML and Deep Computer Vision. I am also a TensorFlow Certified Developer!*
+###### *I am a Machine Learning Engineer, having interets in Applied ML and Deep Computer Vision. I am also a TensorFlow Certified Developer!*
 
 
  *.......................*
