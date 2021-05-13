@@ -7,7 +7,7 @@ My interests lie in the intersection of both education and engineering. I am cur
 I also find a sense of purpose in being present in ML communities. 
 
 
-### Professional Certification
+### Professional Certifications
 
 I have taken over 30 courses. Buf if I look back, the following courses helped me alot. 
 
