@@ -26,13 +26,12 @@ Some other certifications I achieved are in other data domains such as Data Visu
 
 ### Technical Skills
 
-* I have an extensive experiences in Deep Learning with TensorFlow
+* I have an extensive experiences in building Deep Learning models with TensorFlow
 * I love coding Convolutional Neural Networks (aka Convnets)
-* I am confident in building Machine Learning models with Scikit-Learn
-* Data Visualization with Python Data Viz tools: Matplotlib, Seaborn and Plotly. I have also analyzed big data with Tableau and Power BI. 
-* Other tools that I found helpful day to day: OpenCV, Pandas, and NumPy. 
+* I like to visualize dataset at hand. I use Python Data Visualization tools: Matplotlib, Seaborn and Plotly. I have also analyzed big data with Tableau and Power BI. 
+* Other tools that I find helpful day to day: OpenCV, Scikit-Learn, Pandas, and NumPy. 
 
-### My slots in Community
+### Community
 
 * I actively write about Machine Learning at my [blog](jeande.tech) - These articles are also published in [Medium - Analytic Vidhya](jeande.medium.com)
 * I host PIE & AI Kigali meetups - I have hosted 3 events so far with ML practioners from all part of the world - [Records are on my Youtube Channel](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos)
