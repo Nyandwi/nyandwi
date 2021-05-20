@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. Before I learned Machine Learning, I tried Web Development but at the time I heard that Machine Learning is powering intelligent systems, I shifted. That was 2018, it's been over 3 years. 
-
-My interests lie in the intersection of both education and engineering. I am currently teaching Deep Learning with TensorFlow at The Python Academy. 
-
-I also find a sense of purpose in being present in ML communities. 
+My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. My interests lie in the intersection of both education and engineering. I am currently teaching Deep Learning with TensorFlow at The Python Academy. 
 
 
 ### Professional Certifications
 
-I have taken over 30 courses. Buf if I look back, the following courses helped me alot. 
+Here are the courses that I have took: 
 
 * [TensorFlow Developer Certificate - Google](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Developer%20Certificate.pdf)
 * [Advanced TensorFlow Techniques - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Advanced.pdf)
@@ -22,7 +18,7 @@ I have taken over 30 courses. Buf if I look back, the following courses helped m
 * [Data Science and Machine Learning BootCamp - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DS%20and%20ML%20Bootcamp%20Full.pdf)
 * [Computer Vision with OpenCV and Deep Learning - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Udemy%20Computer%20Vision.pdf)
 
-Some other certifications I achieved are in other data domains such as Data Visualization (Tableau and Power BI), Edge AI, SQL, Business, etc...
+I achieved other certifications in various data domains such as Data Visualization (Tableau and Power BI), Edge AI, SQL, Business, etc...
 
 ### Technical Skills
 
