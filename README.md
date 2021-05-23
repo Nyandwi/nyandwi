@@ -29,7 +29,7 @@ I achieved other certifications in various data domains such as Data Visualizati
 
 ### Community
 
-* I actively write about Machine Learning at my [blog](jeande.tech) - These articles are also published in [Medium - Analytic Vidhya](jeande.medium.com)
+* I actively write about Machine Learning at my [blog](https://jeande.tech) - These articles are also published in [Medium - Analytic Vidhya](https://jeande.medium.com)
 * I host PIE & AI Kigali meetups - I have hosted 3 events so far with ML practioners from all part of the world - [Records are on my Youtube Channel](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos)
 * I am active on [Twitter](https://twitter.com/Jeande_d) and [LinkedIn](https://www.linkedin.com/in/nyandwi/). 
 
