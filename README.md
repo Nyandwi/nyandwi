@@ -7,12 +7,12 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 
 Here are the courses that I have took: 
 
+* [Deep Learning Specilization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf)
+* [Machine Learning Stanford - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf)
 * [TensorFlow Developer Certificate - Google](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Developer%20Certificate.pdf)
 * [Advanced TensorFlow Techniques - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Advanced.pdf)
 * [TensorFlow In Practice Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DeepLearning.AI%20TensorFlow.pdf)
 * [TensorFlow: Data and Deployment](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TF%20Specialization%20Certificate.pdf)
-* [Deep Learning Specilization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf)
-* [Machine Learning Stanford - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf)
 * [AI for Medical Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20for%20Medicine%20Specialization.pdf)
 * [AI for Everyone - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20For%20Everyone%20Certificate.pdf)
 * [Data Science and Machine Learning BootCamp - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DS%20and%20ML%20Bootcamp%20Full.pdf)
