@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. My interests lie in the intersection of both education and engineering. I am currently teaching Deep Learning with TensorFlow at The Python Academy. 
+My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. I love sharing knowldege and getting things done. I am currently teaching Deep Learning with TensorFlow at The Python Academy and looking for a team to join working on Machine Learning/Computer Vision. 
 
 
 ### Professional Certifications
-
-Here are the courses that I have took: 
 
 * [Deep Learning Specilization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf)
 * [Machine Learning Stanford - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf)
@@ -18,14 +16,14 @@ Here are the courses that I have took:
 * [Data Science and Machine Learning BootCamp - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DS%20and%20ML%20Bootcamp%20Full.pdf)
 * [Computer Vision with OpenCV and Deep Learning - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Udemy%20Computer%20Vision.pdf)
 
-I achieved other certifications in various data domains such as Data Visualization (Tableau and Power BI), Edge AI, SQL, Business, etc...
+I achieved other certifications in various data domains such as Data Visualization, Edge AI, SQL, and project managements.
 
 ### Technical Skills
-
+* I have a broad understanding of Machine Learning concepts, algorithms and best practices
 * I have an extensive experiences in building Deep Learning models with TensorFlow
-* I love coding Convolutional Neural Networks (aka Convnets)
-* I like to visualize dataset at hand. I use Python Data Visualization tools: Matplotlib, Seaborn and Plotly. I have also analyzed big data with Tableau and Power BI. 
-* Other tools that I find helpful day to day: OpenCV, Scikit-Learn, Pandas, and NumPy. 
+* Other skills: Image processing, data cleaning, and data visualization
+* Tools: TensorFlow, Keras, OpenCV, Scikit-Learn, Pandas, NumPy, Python, Matplotlib, Seaborn and PowerBI. 
+* Currently improving skills in: Machine Learning Operations (MLOps) or model deployments. 
 
 ### Community
 
