@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. I like sharing knowldege and getting things done. I am currently teaching Deep Learning with TensorFlow at The Python Academy and looking for a team to join working on Machine Learning/Computer Vision. 
+My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. I am currently teaching Deep Learning with TensorFlow at The Python Academy and looking for a team to join working on Machine Learning/Computer Vision. 
 
 
 ### Professional Certifications
