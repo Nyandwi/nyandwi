@@ -23,7 +23,7 @@ I achieved other certifications in various data domains such as Data Visualizati
 * I have an extensive experiences in building Deep Learning models with TensorFlow.
 * Other skills: Image processing, data cleaning, and data visualization.
 * Tools: TensorFlow, Keras, OpenCV, Scikit-Learn, Pandas, NumPy, Python, Matplotlib, Seaborn and PowerBI. 
-* Currently improving skills in: Machine Learning Operations (MLOps) or model deployments. 
+* Currently improving skills in: Machine Learning Operations (MLOps). 
 
 ### Community
 
