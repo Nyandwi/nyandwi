@@ -20,7 +20,7 @@ I achieved other certifications in various data domains such as Data Visualizati
 
 ### Technical Skills
 * I have a broad understanding of Machine Learning concepts, algorithms and best practices.
-* I have an extensive experiences in building Deep Learning models with TensorFlow.
+* I have an extensive experiences in building Deep Learning systems with TensorFlow.
 * Other skills: Image processing, data cleaning, and data visualization.
 * Currently improving skills in: Machine Learning Operations (MLOps). 
 
