@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. I am currently teaching Deep Learning with TensorFlow at The Python Academy and looking for a team to join working on Machine Learning/Computer Vision. 
+My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. I am currently teaching Deep Learning with TensorFlow at The Python Academy.
 
 
 ### Professional Certifications
 
 * [Deep Learning Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf).
-* [Machine Learning Stanford - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf).
+* [Machine Learning - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf).
 * [TensorFlow Developer Certificate - Google](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Developer%20Certificate.pdf).
 * [Advanced TensorFlow Techniques - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Advanced.pdf).
 * [TensorFlow In Practice Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DeepLearning.AI%20TensorFlow.pdf).
@@ -19,19 +19,18 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 I achieved other certifications in various data domains such as Data Visualization, Edge AI, SQL, and project managements.
 
 ### Technical Skills
-* I have a broad understanding of Machine Learning concepts, algorithms and best practices.
-* I have an extensive experiences in building Deep Learning systems with TensorFlow.
-* Other skills: Image processing, data cleaning, and data visualization.
-* Currently improving skills in: Machine Learning Operations (MLOps). 
+
+* Broad understanding and implementation of Machine Learning concepts, techniques, and algorithms.
+* Building Deep Learning and Computer Vision systems with TensorFlow.
+* Machine Learning Operations (MLOps).
+* Other skills: Image processing, data cleaning, data analysis, and data visualization.
+
 
 ### Community
 
 * I actively write about Machine Learning at my [blog](https://jeande.tech) - These articles are also published in [Medium - Analytic Vidhya](https://jeande.medium.com).
 * I host PIE & AI Kigali meetups in parternship with [DeepLearning.AI](https://deeplearning.ai) - I have hosted 3 events so far with ML practioners from adifferent sides of the world - Recordings are available [here](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos).
 * I am active on [Twitter](https://twitter.com/Jeande_d) and [LinkedIn](https://www.linkedin.com/in/nyandwi/).
-
-
-Outside tech, I enjoy playing basketbal :basketball: 
 
 
 
