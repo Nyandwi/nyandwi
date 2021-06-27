@@ -16,8 +16,7 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 
 ### Technical Skills
 
-* Broad understanding and implementation of Machine Learning concepts, techniques, and algorithms.
-* Building Deep Learning and Computer Vision systems with TensorFlow.
+* Broad understanding and implementation of Machine Learning and Deep Learning concepts, techniques, and algorithms.
 * Machine Learning Operations (MLOps).
 * Other skills: Image processing, data cleaning, data analysis, and data visualization.
 
