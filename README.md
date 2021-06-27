@@ -12,11 +12,7 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 * [TensorFlow In Practice Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DeepLearning.AI%20TensorFlow.pdf).
 * [TensorFlow: Data and Deployment](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TF%20Specialization%20Certificate.pdf).
 * [AI for Medical Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20for%20Medicine%20Specialization.pdf).
-* [AI for Everyone - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20For%20Everyone%20Certificate.pdf).
-* [Data Science and Machine Learning BootCamp - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20DS%20and%20ML%20Bootcamp%20Full.pdf).
-* [Computer Vision with OpenCV and Deep Learning - Jose Portila](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Udemy%20Computer%20Vision.pdf).
 
-I achieved other certifications in various data domains such as Data Visualization, Edge AI, SQL, and project managements.
 
 ### Technical Skills
 
