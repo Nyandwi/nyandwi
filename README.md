@@ -14,13 +14,6 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 * [AI for Medical Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20for%20Medicine%20Specialization.pdf).
 
 
-### Technical Skills
-
-* Broad understanding and implementation of Machine Learning and Deep Learning concepts, techniques, and algorithms.
-* Machine Learning Operations (MLOps).
-* Other skills: Image processing, data cleaning, data analysis, and data visualization.
-
-
 ### Community
 
 * I actively write about Machine Learning at my [blog](https://jeande.tech)and [Medium](https://jeande.medium.com).
