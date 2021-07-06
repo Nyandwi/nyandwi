@@ -16,7 +16,7 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 
 ### Community
 
-* I actively write about Machine Learning at my [blog](https://jeande.tech)and [Medium](https://jeande.medium.com).
+* I actively write about Machine Learning at my [blog](https://jeande.tech) and [Medium](https://jeande.medium.com).
 * I host PIE & AI Kigali meetups in parternship with [DeepLearning.AI](https://deeplearning.ai) - I have hosted 3 events so far with ML practioners from different sides of the world - Recordings are available [here](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos).
 * Find me on [Twitter](https://twitter.com/Jeande_d) and [LinkedIn](https://www.linkedin.com/in/nyandwi/).
 
