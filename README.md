@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and Computer Vision. 
+My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning, Computer Vision and its intersection with Natural Language Processing. 
+
+
 
 <!-- 
 ##Hide
  -->
-
 
 * I actively write about Machine Learning at my [blog](https://jeande.tech) and [Medium](https://jeande.medium.com).
 * I facilitate learners taking DeepLearning.AI specializations as a mentor
