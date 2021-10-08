@@ -13,30 +13,39 @@ My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning and
 
  -->
  
-### Education
+#### Education
 
 University of Rwanda \
 2017-2021 \
 Bachelor of Science with Honours in Electronics and Telecommunication Engineering
 
-### Industrial Experience
+#### Industrial Experience
 
 VIEBEG Medical Ltd \
 Data Scientist \
-2020 - 2021 \
+2020 - 2021 
 
-### Teaching and Mentorship Experience
+#### Teaching and Mentorship Experience
 
 TensorFlow Instructor \
 The Python Academy \
-February 2020 - Present, part time \
+February 2020 - Present, part time
 
-Mentor and Event Ambassador
+Mentor and Event Ambassador \
 DeepLearning.AI \
-2020 - Present, part time \
+2020 - Present, part time
 
 
-### Online Certifications
+#### Technical Skills
+
+* Possesses a broad understanding of machine learning concepts and classical algorithms.
+* Possesses a broad understanding of deep learning architectures.
+* Proficient in implementing deep learning and computer vision architectures.
+* Other skills: Image processing, data visualization, data analysis and data cleaning.
+* Tools: Python, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
+
+
+#### Online Certifications
 
 * [Deep Learning Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf).
 * [Machine Learning - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf).
@@ -46,9 +55,9 @@ DeepLearning.AI \
 * [TensorFlow: Data and Deployment](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TF%20Specialization%20Certificate.pdf).
 * [AI for Medical Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20AI%20for%20Medicine%20Specialization.pdf).
 
-### My Interests
+#### My Interests
 
 * Writing - [Medium](https://jeande.medium.com), [Hashnode](https://jeande.tech).
-* Events - [Youtube]((https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos)).
+* Events - [Youtube](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos).
 
 Active on [Twitter](https://twitter.com/Jeande_d) and [LinkedIn](https://www.linkedin.com/in/nyandwi/). 
