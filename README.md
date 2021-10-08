@@ -36,10 +36,10 @@ DeepLearning.AI \
 2020 - Present, part time
 
 
-#### Technical Skills
+#### Technical Skills and Tools
 
-* Possesses a broad understanding of machine learning concepts and classical algorithms.
-* Possesses a broad understanding of deep learning architectures.
+* Possess a broad understanding of machine learning concepts and classical algorithms.
+* Possess a broad understanding of deep learning architectures.
 * Proficient in implementing deep learning and computer vision architectures.
 * Other skills: Image processing, data visualization, data analysis and data cleaning.
 * Tools: Python, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
