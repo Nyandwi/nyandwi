@@ -40,7 +40,7 @@ DeepLearning.AI \
 
 * Possess a broad understanding of machine learning concepts and classical algorithms.
 * Possess a broad understanding of deep learning architectures.
-* Proficient in implementing deep learning and computer vision architectures.
+* Proficient in implementing deep learning and computer vision systems.
 * Other skills: Image processing, data visualization, data analysis and data cleaning.
 * Tools: Python, TensorFlow, Keras, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn.
 
