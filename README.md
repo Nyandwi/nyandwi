@@ -47,6 +47,8 @@ DeepLearning.AI \
 
 #### Online Certifications
 
+* [Machine Learning Modeling Pipelines in Production](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/ml_modelling_pipelines_in_prod.pdf)
+* [Introduction to Machine Learning in Production](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/intro_to_ml_in_prod.pdf)
 * [Deep Learning Specialization - DeepLearning.AI, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Deep%20Learning%20Specialization.pdf).
 * [Machine Learning - Stanford Online, Coursera](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20Machine%20Learning%20Stanford.pdf).
 * [TensorFlow Developer Certificate - Google](https://github.com/Nyandwi/nyandwi/blob/main/professional%20certificates/Jean%20-%20TensorFlow%20Developer%20Certificate.pdf).
