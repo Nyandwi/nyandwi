@@ -29,7 +29,7 @@ Data Scientist \
 
 TensorFlow Instructor \
 The Python Academy \
-February 2020 - Present, part time
+February 2020 - October 2021, part time
 
 Mentor and Event Ambassador \
 DeepLearning.AI \
