@@ -2,6 +2,8 @@
 
 My name is Jean de Dieu Nyandwi. I am broadly interested in Machine Learning, Deep Learning, and Computer Vision.
 
+My learnings revolve around building machine learning systems that can perceive the visual world and natural language. 
+
 <!-- 
 ##Hide
 
