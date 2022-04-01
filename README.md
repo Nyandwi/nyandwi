@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
+I'm Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and the intersection of vision and language.
 
-I previously worked at VIEBEG Ltd as a data scientist after my internship there and taught deep learning with TensorFlow at The Python Academy.
+Previously, I worked at VIEBEG Medical Ltd and instructed TensorFlow Deep Learning Certification course at The Python Academy.
 
-I designed a comprehensive [machine learning package](https://github.com/Nyandwi/machine_learning_complete/) that contains over 32 end-to-end and interactive notebooks on various topics such as data analysis, data visualization, data cleaning, classical learning algorithms, and deep learning for visual recognition and natural language processing. 
+I designed a [Complete Machine Learning Package](https://github.com/Nyandwi/machine_learning_complete) that contains over 32 end-to-end and interactive notebooks on various topics such as data analysis, data visualization, data cleaning, classical learning algorithms, and deep learning for visual recognition and natural language processing. The machine learning package has helped over 2000 people to learn and practice different machine learning concepts and techniques!
+
+Other intensive learning materials I designed include revisions and implementations of [Modern Convolutional Neural Network Architectures](https://github.com/Nyandwi/ModernConvNets) and a [friendly introduction to Python tutorial](https://github.com/Nyandwi/PythonBasics)!
 
 ### Recent Blogs
 * [5 Main Types of Machine Learning Systems](https://jeande.medium.com/5-main-types-of-machine-learning-systems-fb07b0cc3d35)
@@ -28,4 +30,9 @@ I designed a comprehensive [machine learning package](https://github.com/Nyandwi
 * [Youtube](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ/videos)
 
 ***************************
+
+<img src="https://github-readme-stats.vercel.app/api?username=nyandwi&&show_icons=true&title_color=ffffff&icon_color=FAD02C&text_color=E9EAEC&bg_color=0C2D48">
+
+***************************
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/jeande_d?style=social)
