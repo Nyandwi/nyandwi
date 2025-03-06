@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jean de Dieu Nyandwi. I am broadly interested in machine learning, deep learning, computer vision, and multimodal learning.
+My name is Jean de Dieu Nyandwi. I am broadly interested in machine learning and multimodal AI.
 
 [Twitter](https://twitter.com/Jeande_d) | [Complete ML](https://nyandwi.com/machine_learning_complete/) | [YouTube](https://www.youtube.com/channel/UCSPFIgLyc2t-pNim-CdyBNQ)| [LinkedIn](https://www.linkedin.com/in/nyandwi/)
 
